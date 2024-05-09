@@ -4,11 +4,15 @@
 /node_modules
 /.pnp
 .pnp.js
+.pnp.cjs
+.pnp.loader.mjs
+/.yarn
 
 # testing
 /coverage
 
 # production
+/dist
 /build
 
 # misc
@@ -28,5 +32,3 @@ build-storybook.log
 chromatic.log
 chromatic-build-*.xml
 chromatic-diagnostics.json
-
-dist
