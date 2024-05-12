@@ -1,7 +1,7 @@
 {
   "name": "@nzkks/storybook-design-system",
   "description": "Storybook Design System",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "private": false,
   "author": "Shanthosh Krishnakumar",
   "main": "dist/cjs/index.js",
