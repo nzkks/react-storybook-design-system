@@ -1,4 +1,18 @@
-# v0.0.1 (Sat May 11 2024)
+# v0.1.2 (Sun May 12 2024)
+
+#### ⚠️ Pushed to `main`
+
+- try fixing "Node.js 16 actions are deprecated" ([@nzkks](https://github.com/nzkks))
+- Automate releases with GitHub Actions ([@nzkks](https://github.com/nzkks))
+- package.json: correct the git repository urls ([@nzkks](https://github.com/nzkks))
+
+#### Authors: 1
+
+- Shanthosh Krishnakumar ([@nzkks](https://github.com/nzkks))
+
+---
+
+# v0.1.1 (Sat May 11 2024)
 
 #### 🐛 Bug Fix
 
@@ -6,7 +20,6 @@
 
 #### ⚠️ Pushed to `main`
 
-- package.json: correct the git repository urls ([@nzkks](https://github.com/nzkks))
 - minor ([@nzkks](https://github.com/nzkks))
 - Switch to yarn from npm ([@nzkks](https://github.com/nzkks))
 - Create a .env file with GitHub access token and npm token ([@nzkks](https://github.com/nzkks))
