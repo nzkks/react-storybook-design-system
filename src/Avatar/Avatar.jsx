@@ -1,10 +1,9 @@
 import PropTypes from 'prop-types';
 import styled from '@emotion/styled';
 import { css } from '@emotion/react';
+
 import { color, typography } from '../shared/styles';
-
 import { glow } from '../shared/animation';
-
 import { Icon } from '../Icon/Icon';
 
 export const sizes = {

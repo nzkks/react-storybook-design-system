@@ -1,6 +1,7 @@
 import PropTypes from 'prop-types';
 import styled from '@emotion/styled';
 import { css } from '@emotion/react';
+
 import { background, color, typography } from '../shared/styles';
 
 const BadgeWrapper = styled.div`
