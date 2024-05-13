@@ -1,9 +1,15 @@
 {
   "name": "@nzkks/storybook-design-system",
   "description": "Storybook Design System",
-  "version": "0.1.2",
   "private": false,
-  "author": "Shanthosh Krishnakumar",
+  "author": {
+    "name": "Shanthosh Krishnakumar",
+    "email": "kkshanthosh@gmail.com"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public"
+  },
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "files": [
@@ -12,7 +18,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nzkks/react-storybook-design-system.git"
+    "url": "https://github.com/nzkks/react-storybook-design-system.git"
   },
   "license": "MIT",
   "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610",
