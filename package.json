@@ -86,7 +86,7 @@
     }
   },
   "resolutions": {
-    "jackspeak": "2.1.1"
+    "jackspeak": "2.3.6"
   },
   "bugs": {
     "url": "https://github.com/nzkks/react-storybook-design-system/issues"
